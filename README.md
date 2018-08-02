@@ -1,0 +1,1 @@
+# stationary_shop_management
